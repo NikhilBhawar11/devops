@@ -1,0 +1,8 @@
+cd Desktop
+cd devops --folder on desktop
+git init
+git add demo.txt
+git commit -m "Second commit"
+git remote add origin https://github.com/NikhilBhawar11/devops.git
+git push -u origin master
+git status
