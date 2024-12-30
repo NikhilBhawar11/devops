@@ -8,3 +8,4 @@ git push -u origin master
 git status
 git config --global user.email "Nikhil.bhawar_"
 git config --global user.name "NikhilBhawar11"
+git branch -m main master
